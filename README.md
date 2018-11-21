@@ -1,0 +1,2 @@
+# AutomationToolandEditor
+Windowsデスクトップ操作自動化ツール＆エディタ
